@@ -1,0 +1,10 @@
+.fluid-jumbotron {
+  background-image: url("../imgs/jumbotron.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #f0f0f0;
+}
+.jumbo-text {
+  background-color: #0f0f0f;
+}
