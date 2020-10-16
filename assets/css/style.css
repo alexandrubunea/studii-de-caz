@@ -6,5 +6,13 @@
   color: #f0f0f0;
 }
 .jumbo-text {
-  background-color: #0f0f0f;
+  background-color: #192DA1;
+}
+.btn-classic-blue {
+  background-color: #192DA1;
+  color: #fff;
+}
+.btn-classic-blue:hover {
+  background-color: #2039CC;
+  color: #f0f0f0;
 }
