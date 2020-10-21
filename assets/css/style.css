@@ -16,14 +16,3 @@
   background-color: #2039CC;
   color: #f0f0f0;
 }
-.navbar-purple {
-  background-color: #6A0DC4 !important;
-}
-.navbar-purple .navbar-brand, .navbar-purple .nav-link {
-  color: #f0f0f0;
-  font-family: 'Balsamiq Sans', cursive;
-}
-.navbar-brand {
-  width: 200px;
-  height: 100px;
-}
