@@ -1,11 +1,29 @@
-.navbar-purple {
-  background-color: #6A0DC4 !important;
+.navbar-blue {
+  background-color: #0477BF !important;
 }
-.navbar-purple .navbar-brand, .navbar-purple .nav-link {
+.navbar-blue .navbar-brand, .navbar-blue .nav-link {
   color: #f0f0f0;
-  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 200;
 }
 .navbar-brand {
   width: 200px;
   height: 100px;
+}
+.title, .subTitle {
+  font-family: 'Potta One', cursive;
+  color: #1FA9FF;
+}
+.banner {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+iframe {
+  border: none;
+  border-radius: 20px;
+}
+.container {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 300;
 }
