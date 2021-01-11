@@ -20,10 +20,12 @@
   padding: 0;
 }
 iframe {
-  border: none;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .container {
   font-family: 'Roboto', sans-serif !important;
   font-weight: 300;
+}
+.portret {
+  height: 500px;
 }
