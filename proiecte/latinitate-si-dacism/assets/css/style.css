@@ -28,4 +28,9 @@ iframe {
 }
 .portret {
   height: 500px;
+  border-radius: 10px;
+}
+.col .timeline {
+  padding:0;
+  margin:0;
 }
