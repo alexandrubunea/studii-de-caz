@@ -70,32 +70,58 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "Who invented JavaScript?",
+      question: "Simbolul dacilor era?",
       answers: {
-        a: "Douglas Crockford",
-        b: "Sheryl Sandberg",
-        c: "Brendan Eich"
+        a: "Un dracon",
+        b: "Un dragon",
+        c: "Un lup"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "Imperiul Bizantin a fost cucerit de?",
+      answers: {
+        a: "Imperiul Dac",
+        b: "Imperiul Rus",
+        c: "Imperiul Otoman"
       },
       correctAnswer: "c"
     },
     {
-      question: "Which one of these is a JavaScript package manager?",
+      question: "Colloseum-ul era?",
       answers: {
-        a: "Node.js",
-        b: "TypeScript",
-        c: "npm"
+        a: "O arenă",
+        b: "O sală de mese",
+        c: "Casa împăratului",
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
     {
-      question: "Which tool can you use to ensure code quality?",
+      question: "Diferența dintre corpul unui soldat roman și al unui dac este?",
       answers: {
-        a: "Angular",
-        b: "jQuery",
-        c: "RequireJS",
-        d: "ESLint"
+        a: "Masivitatea",
+        b: "Culoarea",
+        c: "Mărimea capului",
       },
-      correctAnswer: "d"
+      correctAnswer: "a"
+    },
+    {
+      question: "Războaiele Daco-Romane au început în anul?",
+      answers: {
+        a: "2012",
+        b: "101 î.Hr",
+        c: "101 d.Hr",
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "Împăratul roman în timpul căruia a început războiul este?",
+      answers: {
+        a: "Pilat",
+        b: "Traian",
+        c: "Romulus",
+      },
+      correctAnswer: "b"
     }
   ];
   buildQuiz();
